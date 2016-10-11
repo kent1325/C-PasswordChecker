@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476178253 source:c:\users\kvn\documents\atmel studio\projects\myprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"MyHeader.h"
+	<stdbool.h>
+
+1476093774 c:\users\kvn\documents\atmel studio\projects\myprog\myheader.h
+
